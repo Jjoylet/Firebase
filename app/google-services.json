@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471399863686",
+    "project_id": "sql-app-3d024",
+    "storage_bucket": "sql-app-3d024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471399863686:android:d899f3343528564c1d0807",
+        "android_client_info": {
+          "package_name": "com.joylet.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471399863686-4urlul5aetpmub4e5cghb9lb8fnitat9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBww5Eg3mKxXBI1F2PwwZ6dMj2tnHiO2io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471399863686-4urlul5aetpmub4e5cghb9lb8fnitat9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
